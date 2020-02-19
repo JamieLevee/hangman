@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hangman
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=dotAmount
+comment2.target=void\ delayDots(int)
+comment3.params=u
+comment3.target=boolean\ check(char[])
+numComments=4
